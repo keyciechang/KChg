@@ -1,5 +1,5 @@
 # Bonjour, je suis Key 👋
-# Informatique Cyber | Passionnée de la Tech et Code
+Informatique Cyber | Passionnée de la Tech et Code
 
 ![Profile Banner](https://linktoyourimage.com/banner.png)
 
